@@ -1,2 +1,2 @@
 # basic-golang
-learn from p'Yong
+learn from p'Yong eiei
